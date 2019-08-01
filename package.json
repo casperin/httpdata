@@ -1,0 +1,8 @@
+{
+    "name": "httpdata",
+    "version": "0.0.1",
+    "main": "index.js",
+    "devDependencies": {
+        "typescript": "^3.5.3"
+    }
+}
